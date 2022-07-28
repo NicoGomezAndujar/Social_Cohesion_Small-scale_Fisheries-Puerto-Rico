@@ -1,0 +1,508 @@
+ID,ID.j,ID.j.category,ID.j.boundaries,kinship,tension,support.value,support.type
+3,2,ego.fisher,inside,no,present,2,Re-selling catch
+6,2,ego.fisher,inside,no,absence,3,Assistance with licenses
+6,2,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+6,2,ego.fisher,inside,no,absence,3,Preparing gear
+6,2,ego.fisher,inside,no,absence,3,Selling beyond my usual buyers 
+6,2,ego.fisher,inside,no,absence,3,Sharing gear
+4,3,ego.fisher,inside,no,present,3,Selling locally
+5,3,ego.fisher,inside,no,present,1,Selling beyond my usual buyers 
+6,3,ego.fisher,inside,no,absence,3,Selling locally
+7,3,ego.fisher,inside,no,present,1,Selling beyond my usual buyers 
+11,3,ego.fisher,inside,no,absence,3,Diversifying species that I can catch
+11,3,ego.fisher,inside,no,absence,3,Expanding my fishing range
+11,3,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+11,3,ego.fisher,inside,no,absence,3,Preparing gear
+18,3,ego.fisher,inside,no,absence,3,Selling beyond my usual buyers 
+52,3,ego.fisher,inside,no,absence,3,Selling locally
+1,4,ego.fisher,inside,yes,absence,3,Diversifying species that I can catch
+1,4,ego.fisher,inside,yes,absence,3,Sharing gear
+3,4,ego.fisher,inside,no,absence,3,Re-selling catch
+5,4,ego.fisher,inside,no,absence,1,Diversifying species that I can catch
+5,4,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+5,4,ego.fisher,inside,no,absence,1,Preparing gear
+5,4,ego.fisher,inside,no,absence,3,Sharing gear
+5,4,ego.fisher,inside,no,absence,1,Expanding my fishing range
+7,4,ego.fisher,inside,no,absence,3,Expanding my fishing range
+7,4,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+10,4,ego.fisher,inside,no,absence,3,Repairing gear
+10,4,ego.fisher,inside,no,absence,3,Sharing gear
+18,4,ego.fisher,inside,no,absence,2,Re-selling catch
+3,5,ego.fisher,inside,no,absence,3,Re-selling catch
+4,5,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+4,5,ego.fisher,inside,no,absence,3,Sharing gear
+18,5,ego.fisher,inside,no,absence,2,Re-selling catch
+58,5,ego.fisher,inside,no,absence,2,Finding lost gear
+2,6,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+2,6,ego.fisher,inside,no,absence,3,Sharing gear
+2,6,ego.fisher,inside,no,absence,3,Diversifying species that I can catch
+2,6,ego.fisher,inside,no,absence,3,Expanding my fishing range
+2,6,ego.fisher,inside,no,absence,3,Preparing gear
+2,6,ego.fisher,inside,no,absence,3,Selling beyond my usual buyers 
+2,6,ego.fisher,inside,no,absence,3,Selling locally
+3,6,ego.fisher,inside,no,present,2,Re-selling catch
+11,6,ego.fisher,inside,no,absence,3,Diversifying species that I can catch
+11,6,ego.fisher,inside,no,absence,3,Expanding my fishing range
+11,6,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+17,6,ego.fisher,inside,no,absence,3,Expanding my fishing range
+3,7,ego.fisher,inside,no,absence,3,Re-selling catch
+8,7,ego.fisher,inside,yes,absence,3,Expanding my fishing range
+8,7,ego.fisher,inside,yes,absence,3,Fishing more than I can alone
+8,7,ego.fisher,inside,yes,absence,3,Selling beyond my usual buyers 
+8,7,ego.fisher,inside,yes,absence,3,Sharing gear
+9,7,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+9,7,ego.fisher,inside,no,present,3,Selling beyond my usual buyers 
+12,7,ego.fisher,inside,no,absence,1,Sharing fishing knowledge
+3,8,ego.fisher,inside,no,absence,3,Re-selling catch
+7,8,ego.fisher,inside,yes,absence,3,Fishing more than I can alone
+12,8,ego.fisher,inside,no,absence,1,Selling locally
+12,8,ego.fisher,inside,no,absence,1,Sharing fishing knowledge
+7,9,ego.fisher,inside,yes,present,3,Fishing more than I can alone
+3,11,ego.fisher,inside,no,absence,3,Re-selling catch
+45,12,ego.fisher,inside,no,absence,3,Diversifying species that I can catch
+45,12,ego.fisher,inside,no,absence,3,Expanding my fishing range
+45,12,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+45,12,ego.fisher,inside,no,absence,3,Improving Maritime safety
+45,12,ego.fisher,inside,no,absence,3,Preparing gear
+45,12,ego.fisher,inside,no,absence,3,Selling beyond my usual buyers 
+45,12,ego.fisher,inside,no,absence,3,Selling locally
+19,14,ego.fisher,inside,no,absence,3,Sharing gear
+16,15,ego.fisher,inside,no,absence,3,Diversifying species that I can catch
+17,16,ego.fisher,inside,no,absence,3,Expanding my fishing range
+20,16,ego.fisher,inside,no,absence,3,Diversifying species that I can catch
+20,16,ego.fisher,inside,no,absence,3,Expanding my fishing range
+20,16,ego.fisher,inside,no,absence,3,Selling beyond my usual buyers 
+28,16,ego.fisher,inside,no,absence,3,Expanding my fishing range
+28,16,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+28,16,ego.fisher,inside,no,absence,3,Sharing gear
+32,16,ego.fisher,inside,no,absence,3,Sharing gear
+32,16,ego.fisher,inside,no,absence,3,Diversifying species that I can catch
+32,16,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+51,16,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+59,16,ego.fisher,inside,yes,absence,3,Sharing gear
+59,16,ego.fisher,inside,yes,absence,3,Fishing more than I can alone
+16,17,ego.fisher,inside,no,absence,3,Expanding my fishing range
+16,17,ego.fisher,inside,no,absence,3,Diversifying species that I can catch
+28,17,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+28,17,ego.fisher,inside,no,absence,3,Sharing gear
+28,17,ego.fisher,inside,no,absence,3,Expanding my fishing range
+3,18,ego.fisher,inside,no,absence,3,Re-selling catch
+4,18,ego.fisher,inside,no,absence,1,Selling beyond my usual buyers 
+6,18,ego.fisher,inside,no,absence,1,Selling beyond my usual buyers 
+37,19,ego.fisher,inside,no,absence,1,Having an alternate occupation
+51,19,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+51,19,ego.fisher,inside,no,absence,3,Preparing gear
+17,20,ego.fisher,inside,no,absence,3,Expanding my fishing range
+28,20,ego.fisher,inside,no,absence,3,Expanding my fishing range
+28,20,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+28,20,ego.fisher,inside,no,absence,3,Sharing gear
+60,20,ego.fisher,inside,no,absence,3,Sharing gear
+19,21,ego.fisher,inside,yes,absence,3,Fishing more than I can alone
+19,21,ego.fisher,inside,yes,present,2,Avoiding Conflict
+22,21,ego.fisher,inside,no,present,2,Selling locally
+22,21,ego.fisher,inside,no,present,3,Sharing gear
+21,22,ego.fisher,inside,no,present,1,Fishing more than I can alone
+24,23,ego.fisher,inside,no,absence,2,Selling beyond my usual buyers 
+25,23,ego.fisher,inside,no,absence,2,Selling locally
+10,24,ego.fisher,inside,no,absence,1,Selling beyond my usual buyers 
+18,24,ego.fisher,inside,no,absence,1,Selling beyond my usual buyers 
+23,24,ego.fisher,inside,no,absence,3,Re-selling catch
+28,24,ego.fisher,inside,no,absence,3,Having an alternate occupation
+27,25,ego.fisher,inside,yes,absence,3,Fishing more than I can alone
+25,27,ego.fisher,inside,no,absence,3,Diversifying species that I can catch
+25,27,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+25,27,ego.fisher,inside,no,absence,3,Selling locally
+38,27,ego.fisher,inside,no,absence,2,Diversifying species that I can catch
+16,28,ego.fisher,inside,no,absence,2,Expanding my fishing range
+20,28,ego.fisher,inside,no,absence,3,Expanding my fishing range
+32,28,ego.fisher,inside,no,absence,2,Diversifying species that I can catch
+37,29,ego.fisher,inside,no,absence,1,Having an alternate occupation
+40,29,ego.fisher,inside,yes,absence,3,Fishing more than I can alone
+40,29,ego.fisher,inside,yes,absence,3,Preparing gear
+42,29,ego.fisher,inside,yes,absence,3,Diversifying species that I can catch
+42,29,ego.fisher,inside,yes,absence,3,Fishing more than I can alone
+42,29,ego.fisher,inside,yes,absence,3,Preparing gear
+42,29,ego.fisher,inside,yes,absence,3,Selling locally
+42,29,ego.fisher,inside,yes,absence,3,Sharing gear
+26,30,ego.fisher,inside,no,absence,1,Improving Maritime safety
+31,30,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+26,31,ego.fisher,inside,no,present,1,Improving Maritime safety
+30,31,ego.fisher,inside,yes,absence,3,Fishing more than I can alone
+30,31,ego.fisher,inside,yes,absence,3,Sharing gear
+48,31,ego.fisher,inside,no,absence,2,Finding lost gear
+59,32,ego.fisher,inside,no,absence,2,Fishing more than I can alone
+34,33,ego.fisher,inside,no,present,3,Expanding my fishing range
+34,33,ego.fisher,inside,no,present,3,Sharing gear
+61,33,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+61,33,ego.fisher,inside,no,absence,3,Sharing gear
+33,34,ego.fisher,inside,no,absence,2,Improving Maritime safety
+54,34,ego.fisher,inside,no,absence,N/A,Fishing more than I can alone
+54,34,ego.fisher,inside,no,absence,3,Sharing gear
+61,34,ego.fisher,inside,no,absence,3,Sharing gear
+61,34,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+33,35,ego.fisher,inside,no,absence,2,Improving Maritime safety
+34,35,ego.fisher,inside,no,absence,3,Sharing gear
+34,35,ego.fisher,inside,no,absence,3,Expanding my fishing range
+37,35,ego.fisher,inside,no,absence,1,Having an alternate occupation
+54,35,ego.fisher,inside,no,absence,N/A,Fishing more than I can alone
+54,35,ego.fisher,inside,no,absence,3,Sharing gear
+61,35,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+61,35,ego.fisher,inside,no,absence,3,Selling locally
+61,35,ego.fisher,inside,no,absence,3,Sharing gear
+37,36,ego.fisher,inside,no,absence,1,Having an alternate occupation
+43,37,ego.fisher,inside,no,absence,2,Preparing gear
+43,37,ego.fisher,inside,no,absence,2,Sourcing gear
+48,37,ego.fisher,inside,no,present,2,Sourcing gear
+53,37,ego.fisher,inside,no,absence,3,Sourcing gear
+57,37,ego.fisher,inside,no,absence,3,Sharing gear
+29,40,ego.fisher,inside,yes,absence,1,Preparing gear
+29,40,ego.fisher,inside,yes,absence,1,Fishing more than I can alone
+37,40,ego.fisher,inside,no,absence,1,Having an alternate occupation
+42,40,ego.fisher,inside,yes,absence,3,Fishing more than I can alone
+42,40,ego.fisher,inside,yes,absence,3,Preparing gear
+42,40,ego.fisher,inside,yes,absence,3,Diversifying species that I can catch
+42,40,ego.fisher,inside,yes,absence,3,Sharing gear
+29,41,ego.fisher,inside,yes,absence,1,Expanding my fishing range
+29,41,ego.fisher,inside,yes,absence,1,Fishing more than I can alone
+29,41,ego.fisher,inside,yes,absence,1,Preparing gear
+29,41,ego.fisher,inside,yes,absence,1,Selling beyond my usual buyers 
+29,41,ego.fisher,inside,yes,absence,1,Selling locally
+29,41,ego.fisher,inside,yes,absence,1,Sharing gear
+40,41,ego.fisher,inside,yes,absence,3,Fishing more than I can alone
+40,41,ego.fisher,inside,yes,absence,3,Sharing gear
+19,42,ego.fisher,inside,yes,absence,3,Avoiding Conflict
+19,42,ego.fisher,inside,yes,absence,2,Expanding my fishing range
+19,42,ego.fisher,inside,no,absence,3,Improving Maritime safety
+19,42,ego.fisher,inside,yes,absence,1,Preparing gear
+49,42,ego.fisher,inside,no,absence,3,Diversifying species that I can catch
+49,42,ego.fisher,inside,no,absence,3,Expanding my fishing range
+49,42,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+33,43,ego.fisher,inside,no,absence,2,Improving Maritime safety
+50,43,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+50,43,ego.fisher,inside,no,absence,3,Expanding my fishing range
+61,43,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+61,43,ego.fisher,inside,no,absence,3,Sharing gear
+19,44,ego.fisher,inside,no,absence,3,Avoiding Conflict
+19,44,ego.fisher,inside,no,absence,2,Expanding my fishing range
+19,44,ego.fisher,inside,no,absence,3,Improving Maritime safety
+19,44,ego.fisher,inside,no,absence,1,Preparing gear
+26,44,ego.fisher,inside,no,present,1,Improving Maritime safety
+48,44,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+53,44,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+53,44,ego.fisher,inside,no,absence,3,Selling locally
+53,44,ego.fisher,inside,no,absence,3,Sharing gear
+53,44,ego.fisher,inside,no,absence,3,Preparing gear
+53,44,ego.fisher,inside,no,absence,3,Selling beyond my usual buyers 
+12,45,ego.fisher,inside,no,absence,1,Diversifying species that I can catch
+12,45,ego.fisher,inside,no,absence,1,Expanding my fishing range
+12,45,ego.fisher,inside,no,absence,1,Fishing more than I can alone
+12,45,ego.fisher,inside,no,absence,1,Preparing gear
+12,45,ego.fisher,inside,no,absence,1,Sharing gear
+34,45,ego.fisher,inside,no,absence,3,Sharing gear
+34,45,ego.fisher,inside,no,absence,3,Expanding my fishing range
+36,46,ego.fisher,inside,no,absence,3,Repairing gear
+37,46,ego.fisher,inside,no,absence,3,Repairing gear
+44,46,ego.fisher,inside,no,absence,3,Diversifying species that I can catch
+44,46,ego.fisher,inside,no,absence,3,Expanding my fishing range
+44,46,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+37,48,ego.fisher,inside,no,absence,3,Repairing gear
+60,50,ego.fisher,inside,no,absence,1,Finding lost gear
+26,51,ego.fisher,inside,no,present,1,Improving Maritime safety
+3,52,ego.fisher,inside,no,absence,3,Re-selling catch
+12,52,ego.fisher,inside,no,absence,2,Preparing gear
+12,52,ego.fisher,inside,no,absence,1,Sharing fishing knowledge
+37,53,ego.fisher,inside,no,absence,1,Having an alternate occupation
+44,53,ego.fisher,inside,yes,absence,3,Preparing gear
+44,53,ego.fisher,inside,yes,absence,3,Sharing gear
+61,54,ego.fisher,inside,no,absence,3,Sharing gear
+61,54,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+17,56,ego.fisher,inside,no,absence,3,Expanding my fishing range
+37,57,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+37,57,ego.fisher,inside,no,absence,3,Expanding my fishing range
+37,57,ego.fisher,inside,no,absence,3,Sharing fishing knowledge
+43,60,ego.fisher,inside,no,absence,3,Finding lost gear
+43,60,ego.fisher,inside,no,absence,3,Gutting and Scaling fish
+43,60,ego.fisher,inside,no,absence,3,Repairing gear
+50,60,ego.fisher,inside,no,absence,3,Finding lost gear
+35,61,ego.fisher,inside,no,absence,3,Fishing more than I can alone
+35,61,ego.fisher,inside,no,absence,3,Repairing gear
+35,61,ego.fisher,inside,no,absence,3,Sharing gear
+58,61,ego.fisher,inside,no,absence,3,Sharing gear
+5,A1,alter.fisher,outside,yes,absence,3,Fishing more than I can alone
+5,A1,alter.fisher,outside,yes,absence,1,Preparing gear
+5,A1,alter.fisher,outside,yes,absence,1,Sharing gear
+13,A10,alter.fisher,outside,no,absence,2,Fishing more than I can alone
+16,A11,alter.fisher,outside,yes,absence,3,Fishing more than I can alone
+16,A11,alter.fisher,outside,yes,absence,3,Preparing gear
+18,A14,alter.fisher,outside,no,absence,1,Fishing more than I can alone
+19,A19,alter.fisher,inside,no,absence,1,Collective Action
+7,A2,alter.fisher,outside,no,absence,1,Fishing more than I can alone
+37,A20,alter.fisher,inside,no,absence,3,Diversifying species that I can catch
+37,A20,alter.fisher,inside,no,absence,3,Expanding my fishing range
+37,A20,alter.fisher,inside,no,absence,3,Sharing fishing knowledge
+37,A20,alter.fisher,inside,no,absence,3,Fishing more than I can alone
+48,A20,alter.fisher,inside,yes,absence,3,Selling locally
+20,A22,alter.fisher,outside,no,absence,3,Fishing more than I can alone
+21,A23,alter.fisher,inside,no,absence,3,Fishing more than I can alone
+41,A23,alter.fisher,inside,no,absence,3,Fishing more than I can alone
+41,A23,alter.fisher,inside,no,absence,3,Improving Finances
+41,A23,alter.fisher,inside,no,absence,3,Preparing gear
+41,A23,alter.fisher,inside,no,absence,3,Sharing gear
+44,A23,alter.fisher,inside,no,absence,3,Diversifying species that I can catch
+44,A23,alter.fisher,inside,no,absence,3,Expanding my fishing range
+44,A23,alter.fisher,inside,no,absence,3,Fishing more than I can alone
+24,A24,alter.fisher,outside,no,absence,3,Selling locally
+28,A24,alter.fisher,outside,no,absence,2,Selling locally
+23,A26,alter.fisher,outside,no,absence,3,Fishing more than I can alone
+23,A26,alter.fisher,outside,no,absence,1,Gutting and Scaling fish
+23,A26,alter.fisher,outside,no,absence,1,Preparing gear
+23,A27,alter.fisher,outside,no,absence,3,Re-selling catch
+23,A28,alter.fisher,outside,no,absence,3,Diversifying species that I can catch
+50,A29,alter.fisher,outside,yes,absence,2,Fishing more than I can alone
+50,A29,alter.fisher,outside,yes,absence,2,Preparing gear
+23,A30,alter.fisher,outside,no,absence,3,Sourcing gear
+25,A31,alter.fisher,outside,yes,absence,3,Gutting and Scaling fish
+25,A32,alter.fisher,outside,no,present,3,Assistance with licenses
+25,A32,alter.fisher,outside,no,present,3,Selling locally
+27,A32,alter.fisher,outside,yes,present,2,Sharing gear
+26,A33,alter.fisher,outside,no,absence,3,Fishing more than I can alone
+26,A33,alter.fisher,outside,no,absence,3,Sharing fishing knowledge
+26,A33,alter.fisher,outside,no,absence,3,Improving Maritime safety
+30,A34,alter.fisher,inside,yes,absence,3,Fishing more than I can alone
+30,A34,alter.fisher,inside,yes,absence,3,Sharing gear
+31,A34,alter.fisher,inside,no,absence,3,Sharing gear
+10,A4,alter.fisher,outside,no,absence,3,Expanding my fishing range
+60,A42,alter.fisher,outside,no,absence,3,Fishing more than I can alone
+60,A42,alter.fisher,outside,no,absence,3,Improving Finances
+60,A42,alter.fisher,outside,no,absence,3,Diversifying species that I can catch
+60,A42,alter.fisher,outside,no,absence,3,Expanding my fishing range
+60,A42,alter.fisher,outside,no,absence,3,Sharing gear
+29,A44,alter.fisher,inside,yes,absence,1,Fishing more than I can alone
+29,A44,alter.fisher,inside,yes,absence,1,Preparing gear
+42,A44,alter.fisher,inside,yes,absence,3,Fishing more than I can alone
+42,A44,alter.fisher,inside,yes,absence,3,Preparing gear
+10,A5,alter.fisher,outside,no,absence,3,Fishing more than I can alone
+33,A50,alter.fisher,inside,no,absence,2,Improving Maritime safety
+60,A50,alter.fisher,inside,no,absence,1,Diversifying species that I can catch
+33,A51,alter.fisher,inside,no,absence,2,Improving Maritime safety
+34,A51,alter.fisher,inside,no,absence,3,Diversifying species that I can catch
+34,A51,alter.fisher,inside,no,absence,3,Expanding my fishing range
+33,A52,alter.fisher,outside,no,absence,2,Improving Maritime safety
+34,A52,alter.fisher,outside,no,absence,3,Expanding my fishing range
+33,A53,alter.fisher,outside,no,absence,2,Diversifying species that I can catch
+33,A53,alter.fisher,outside,no,absence,2,Fishing more than I can alone
+33,A53,alter.fisher,outside,no,absence,2,Preparing gear
+35,A55,alter.fisher,inside,no,present,2,Fishing more than I can alone
+35,A55,alter.fisher,inside,no,present,2,Preparing gear
+61,A55,alter.fisher,inside,no,absence,2,Fishing more than I can alone
+35,A56,alter.fisher,outside,no,absence,3,Fishing more than I can alone
+36,A59,alter.fisher,outside,no,absence,3,Fishing more than I can alone
+36,A59,alter.fisher,outside,no,absence,3,Sharing gear
+37,A61,alter.fisher,outside,no,absence,3,Fishing more than I can alone
+37,A62,alter.fisher,outside,no,absence,3,Fishing more than I can alone
+38,A63,alter.fisher,outside,no,absence,3,Repairing gear
+38,A64,alter.fisher,outside,no,absence,3,Repairing gear
+38,A65,alter.fisher,outside,no,absence,3,Fishing more than I can alone
+38,A65,alter.fisher,outside,no,absence,3,Preparing gear
+39,A68,alter.fisher,outside,yes,absence,3,Fishing more than I can alone
+56,A69,alter.fisher,outside,yes,absence,3,Repairing gear
+46,A73,alter.fisher,outside,no,absence,3,Fishing more than I can alone
+46,A73,alter.fisher,outside,no,absence,3,Preparing gear
+46,A74,alter.fisher,outside,no,absence,3,Diversifying species that I can catch
+46,A74,alter.fisher,outside,no,absence,3,Expanding my fishing range
+46,A74,alter.fisher,outside,no,absence,3,Sharing gear
+46,A75,alter.fisher,outside,no,absence,3,Fishing more than I can alone
+46,A75,alter.fisher,outside,no,absence,3,Preparing gear
+46,A75,alter.fisher,outside,no,absence,3,Sharing gear
+47,A76,alter.fisher,outside,no,absence,3,Fishing more than I can alone
+49,A77,alter.fisher,outside,no,absence,3,Sharing gear
+49,A77,alter.fisher,outside,no,absence,3,Diversifying species that I can catch
+49,A77,alter.fisher,outside,no,absence,3,Fishing more than I can alone
+49,A77,alter.fisher,outside,no,absence,3,Preparing gear
+50,A78,alter.fisher,outside,yes,absence,2,Preparing gear
+52,A79,alter.fisher,outside,no,absence,2,Fishing more than I can alone
+56,A80,alter.fisher,outside,yes,absence,3,Repairing gear
+13,A9,alter.fisher,outside,no,absence,3,Diversifying species that I can catch
+13,A9,alter.fisher,outside,no,absence,3,Expanding my fishing range
+13,A9,alter.fisher,outside,no,absence,3,Preparing gear
+15,M1,other.supporter,outside,no,present,1,Assistance with licenses
+30,M1,other.supporter,outside,yes,absence,3,Assistance with licenses
+37,M1,other.supporter,outside,no,absence,3,Assistance with licenses
+41,M1,other.supporter,outside,no,absence,3,Assistance with licenses
+41,M1,other.supporter,outside,no,absence,3,Avoiding Conflict
+44,M1,other.supporter,outside,no,present,1,Assistance with licenses
+49,M1,other.supporter,outside,no,absence,2,Assistance with licenses
+44,M2,other.supporter,outside,no,present,1,Assistance with licenses
+60,M3,other.supporter,outside,no,absence,2,Collective Action
+30,MM2,other.supporter,outside,no,present,1,Selling beyond my usual buyers 
+30,MM3,other.supporter,outside,no,present,1,Selling beyond my usual buyers 
+30,MM4,other.supporter,outside,no,present,1,Selling beyond my usual buyers 
+30,MM5,other.supporter,outside,no,present,1,Selling beyond my usual buyers 
+30,MM6,other.supporter,outside,no,present,1,Selling beyond my usual buyers 
+1,NGO1,other.supporter,outside,no,absence,1,Having an alternate occupation
+4,NGO1,other.supporter,outside,no,absence,3,Having an alternate occupation
+16,NGO2,other.supporter,outside,no,absence,1,Having an alternate occupation
+28,NGO2,other.supporter,outside,no,absence,3,Sharing gear
+28,NGO3,other.supporter,outside,no,present,1,Sharing gear
+34,NGO3,other.supporter,outside,no,absence,3,Having an alternate occupation
+35,NGO3,other.supporter,outside,no,absence,3,Diversifying species that I can catch
+35,NGO3,other.supporter,outside,no,absence,3,Having an alternate occupation
+54,NGO3,other.supporter,outside,no,absence,3,Assistance with fisheries aid
+54,NGO3,other.supporter,outside,no,absence,3,Collective Action
+56,NGO3,other.supporter,outside,no,absence,1,Selling beyond my usual buyers 
+56,NGO3,other.supporter,outside,no,absence,2,Sharing fishing knowledge
+58,NGO3,other.supporter,outside,no,absence,3,Assistance with fisheries aid
+58,NGO3,other.supporter,outside,no,absence,3,Having an alternate occupation
+3,NGO4,other.supporter,outside,no,absence,3,Improving Finances
+28,NGO4,other.supporter,outside,no,absence,1,Repairing gear
+50,NGO4,other.supporter,outside,no,absence,3,Sourcing gear
+31,NGO5,other.supporter,outside,no,absence,1,Assistance with licenses
+29,NGO6,other.supporter,outside,no,absence,2,Assistance with fisheries aid
+4,P1,other.supporter,outside,no,absence,1,Selling beyond my usual buyers 
+6,P1,other.supporter,outside,no,absence,1,Selling beyond my usual buyers 
+18,P1,other.supporter,outside,no,absence,3,Selling locally
+33,P1,other.supporter,outside,no,absence,3,Having an alternate occupation
+33,P1,other.supporter,outside,no,absence,3,Selling locally
+34,P1,other.supporter,outside,no,absence,3,Expanding my fishing range
+34,P1,other.supporter,outside,no,absence,3,Having an alternate occupation
+34,P1,other.supporter,outside,no,absence,3,Selling locally
+35,P1,other.supporter,outside,no,absence,3,Assistance with fisheries aid
+35,P1,other.supporter,outside,no,absence,3,Assistance with fisheries aid
+35,P1,other.supporter,outside,no,absence,3,Collective Action
+35,P1,other.supporter,outside,no,absence,3,Selling locally
+43,P1,other.supporter,outside,no,absence,3,Gutting and Scaling fish
+43,P1,other.supporter,outside,no,absence,3,Selling locally
+50,P1,other.supporter,outside,no,absence,3,Selling locally
+54,P1,other.supporter,outside,no,absence,3,Collective Action
+54,P1,other.supporter,outside,no,absence,3,Selling locally
+56,P1,other.supporter,outside,no,absence,3,Selling beyond my usual buyers 
+58,P1,other.supporter,outside,no,absence,3,Collective Action
+58,P1,other.supporter,outside,no,absence,3,Selling locally
+58,P1,other.supporter,outside,no,absence,3,Selling locally
+60,P1,other.supporter,outside,no,absence,2,Sourcing gear
+61,P1,other.supporter,outside,no,absence,3,Selling locally
+13,P2,other.supporter,outside,no,absence,3,Preparing gear
+14,P2,other.supporter,outside,no,absence,3,Assistance with licenses
+15,P2,other.supporter,outside,no,absence,3,Assistance with fisheries aid
+15,P2,other.supporter,outside,no,absence,3,Preparing gear
+15,P2,other.supporter,outside,no,absence,3,Selling locally
+15,P2,other.supporter,outside,no,absence,3,Selling locally
+16,P2,other.supporter,outside,no,absence,3,Having an alternate occupation
+16,P2,other.supporter,outside,no,absence,3,Selling locally
+18,P2,other.supporter,outside,no,absence,2,Selling beyond my usual buyers 
+18,P2,other.supporter,outside,no,absence,2,Assistance with licenses
+28,P2,other.supporter,outside,no,absence,2,Selling beyond my usual buyers 
+29,P2,other.supporter,outside,no,present,2,Assistance with licenses
+29,P2,other.supporter,outside,no,present,2,Selling beyond my usual buyers 
+32,P2,other.supporter,outside,no,absence,3,Assistance with licenses
+32,P2,other.supporter,outside,no,absence,3,Collective Action
+32,P2,other.supporter,outside,no,absence,3,Selling locally
+36,P2,other.supporter,outside,no,absence,3,Assistance with fisheries aid
+36,P2,other.supporter,outside,no,present,3,Selling locally
+37,P2,other.supporter,outside,no,absence,3,Assistance with fisheries aid
+46,P2,other.supporter,outside,no,absence,3,Assistance with fisheries aid
+46,P2,other.supporter,outside,no,absence,3,Selling beyond my usual buyers 
+47,P2,other.supporter,outside,no,absence,3,Assistance with fisheries aid
+48,P2,other.supporter,outside,no,present,1,Assistance with fisheries aid
+55,P2,other.supporter,outside,no,absence,2,Assistance with fisheries aid
+55,P2,other.supporter,outside,no,present,2,Selling locally
+57,P2,other.supporter,outside,no,absence,1,Assistance with fisheries aid
+59,P2,other.supporter,outside,no,absence,3,Selling locally
+23,P3,other.supporter,outside,no,absence,3,Assistance with licenses
+24,P3,other.supporter,outside,no,present,1,Selling beyond my usual buyers 
+25,P3,other.supporter,outside,no,absence,3,Assistance with licenses
+26,P3,other.supporter,outside,no,absence,3,Assistance with licenses
+27,P3,other.supporter,outside,no,absence,3,Assistance with licenses
+27,P3,other.supporter,outside,no,absence,1,Selling beyond my usual buyers 
+31,P3,other.supporter,outside,no,absence,3,Assistance with licenses
+39,P3,other.supporter,outside,no,absence,3,Assistance with fisheries aid
+39,P3,other.supporter,outside,no,absence,3,Collective Action
+40,P3,other.supporter,outside,no,absence,3,Assistance with fisheries aid
+40,P3,other.supporter,outside,no,absence,1,Selling locally
+41,P3,other.supporter,outside,no,absence,3,Collective Action
+42,P3,other.supporter,outside,no,absence,3,Assistance with fisheries aid
+42,P3,other.supporter,outside,no,absence,3,Collective Action
+44,P3,other.supporter,outside,no,present,2,Assistance with fisheries aid
+44,P3,other.supporter,outside,no,present,2,Assistance with licenses
+49,P3,other.supporter,outside,no,present,2,Collective Action
+53,P3,other.supporter,outside,no,absence,1,Assistance with fisheries aid
+21,P4,other.supporter,outside,no,absence,1,Selling locally
+22,P4,other.supporter,outside,no,absence,1,Selling locally
+17,P5,other.supporter,outside,no,absence,3,Selling locally
+37,P5,other.supporter,outside,no,absence,3,Selling beyond my usual buyers 
+37,P5,other.supporter,outside,no,absence,3,Selling locally
+38,P5,other.supporter,outside,no,absence,3,Selling locally
+57,P5,other.supporter,outside,no,absence,3,Selling locally
+54,P8,other.supporter,outside,no,absence,1,Selling beyond my usual buyers 
+61,P8,other.supporter,outside,no,absence,3,Selling beyond my usual buyers 
+54,P9,other.supporter,outside,no,absence,1,Selling beyond my usual buyers 
+4,Me1,other.supporter,outside,no,absence,3,Repairing gear
+10,Me2,other.supporter,outside,no,absence,3,Repairing gear
+18,Me3,other.supporter,outside,no,absence,2,Repairing gear
+45,Me4,other.supporter,outside,no,absence,2,Repairing gear
+52,Me5,other.supporter,outside,yes,absence,3,Repairing gear
+8,St1,other.supporter,outside,no,absence,2,Preparing gear
+10,St2,other.supporter,outside,no,absence,2,Preparing gear
+13,St2,other.supporter,outside,no,absence,1,Preparing gear
+45,St2,other.supporter,outside,yes,absence,2,Sourcing gear
+9,St2,other.supporter,outside,no,absence,2,Preparing gear
+18,St3,other.supporter,outside,no,absence,2,Preparing gear
+52,St4,other.supporter,outside,no,absence,3,Finding lost gear
+52,St5,other.supporter,outside,no,absence,2,Repairing gear
+23,Me2,other.supporter,outside,no,absence,3,Repairing gear
+29,Me3,other.supporter,outside,no,absence,3,Repairing gear
+1,R1,other.supporter,outside,no,present,3,Selling locally
+3,R1,other.supporter,outside,no,absence,1,Selling locally
+4,R1,other.supporter,outside,no,absence,3,Selling locally
+5,R1,other.supporter,outside,no,absence,1,Selling locally
+9,R1,other.supporter,outside,no,absence,2,Selling locally
+3,R10,other.supporter,outside,no,absence,3,Selling locally
+17,R10,other.supporter,outside,no,absence,1,Selling beyond my usual buyers 
+21,R11,other.supporter,outside,no,absence,3,Selling locally
+22,R11,other.supporter,outside,no,absence,3,Selling locally
+38,R12,other.supporter,outside,no,absence,3,Selling locally
+51,R12,other.supporter,outside,no,absence,3,Selling locally
+28,R13,other.supporter,outside,no,absence,2,Selling beyond my usual buyers 
+30,R14,other.supporter,outside,no,absence,2,Selling beyond my usual buyers 
+31,R14,other.supporter,outside,no,absence,2,Selling beyond my usual buyers 
+33,R15,other.supporter,outside,no,absence,2,Selling locally
+3,R17,other.supporter,outside,no,absence,3,Selling locally
+3,R18,other.supporter,outside,no,absence,3,Selling locally
+1,R2,other.supporter,outside,no,present,1,Selling locally
+3,R2,other.supporter,outside,no,absence,1,Selling locally
+4,R2,other.supporter,outside,no,present,2,Selling locally
+12,R2,other.supporter,outside,no,absence,1,Selling locally
+3,R3,other.supporter,outside,no,absence,1,Selling locally
+9,R3,other.supporter,outside,no,absence,2,Selling locally
+3,R4,other.supporter,outside,no,absence,1,Selling locally
+6,R4,other.supporter,outside,no,absence,2,Selling locally
+9,R4,other.supporter,outside,no,absence,2,Selling locally
+11,R4,other.supporter,outside,no,absence,3,Selling locally
+12,R4,other.supporter,outside,no,absence,1,Selling locally
+52,R4,other.supporter,outside,no,absence,1,Selling beyond my usual buyers 
+6,R5,other.supporter,outside,no,absence,1,Selling beyond my usual buyers 
+15,R5,other.supporter,outside,no,absence,3,Selling locally
+16,R5,other.supporter,outside,no,absence,3,Selling locally
+17,R5,other.supporter,outside,no,absence,1,Selling beyond my usual buyers 
+24,R5,other.supporter,outside,no,absence,2,Selling beyond my usual buyers 
+28,R5,other.supporter,outside,no,absence,2,Selling beyond my usual buyers 
+29,R5,other.supporter,outside,no,absence,3,Improving Finances
+29,R5,other.supporter,outside,no,absence,3,Selling locally
+29,R5,other.supporter,outside,no,absence,3,Repairing gear
+30,R5,other.supporter,outside,no,absence,3,Selling locally
+31,R5,other.supporter,outside,no,absence,3,Selling locally
+32,R5,other.supporter,outside,no,absence,2,Selling beyond my usual buyers 
+36,R5,other.supporter,outside,no,absence,3,Selling locally
+40,R5,other.supporter,outside,no,absence,1,Selling locally
+40,R5,other.supporter,outside,no,absence,1,Selling locally
+46,R5,other.supporter,outside,no,absence,3,Selling locally
+49,R5,other.supporter,outside,no,absence,3,Selling locally
+53,R5,other.supporter,outside,no,absence,3,Selling locally
+56,R5,other.supporter,outside,no,absence,3,Selling locally
+60,R5,other.supporter,outside,no,absence,3,Selling beyond my usual buyers 
+3,R6,other.supporter,outside,no,absence,3,Selling locally
+12,R6,other.supporter,outside,no,absence,1,Selling locally
+3,R7,other.supporter,outside,no,absence,3,Selling locally
+3,R9,other.supporter,outside,no,absence,3,Selling locally
+8,T1,other.supporter,outside,no,absence,1,Having an alternate occupation
+4,U1,other.supporter,outside,no,absence,3,Having an alternate occupation
