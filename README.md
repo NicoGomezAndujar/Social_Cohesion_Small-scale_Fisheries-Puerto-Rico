@@ -4,7 +4,7 @@ GENERAL INFORMATION
 
 1. Title of Dataset:  Social-Cohesion-Small-scale-Fisheries-Puerto-Rico
 
-2. Dataset Summary: Repository for the anonimized raw data, processed data, and code used in the quantitative social network analysis of cooperation networks in the commercial small-scale fisheries of Puerto Rico during 2020. This repository encompasses the quantiative data utilized for the peer-reviewed article published in the Frontiers in Marine Science journal (DOI: ), and represents a sub-set of the datasets obtained throughout this research project stored in the PR-SSF-SNA Github repository. (Link to repository: https://github.com/NicoGomezAndujar/PR-SSF-SNA). 
+2. Dataset Summary: Repository for the anonimized raw data, processed data, and code used in the quantitative social network analysis of cooperation networks in the commercial small-scale fisheries of Puerto Rico during 2020. This repository encompasses the quantiative data utilized for the peer-reviewed article published in the Frontiers in Marine Science journal (https://doi.org/10.3389/fmars.2022.966309), and represents a sub-set of the datasets obtained throughout this research project stored in the PR-SSF-SNA Github repository. (Link to repository: https://github.com/NicoGomezAndujar/PR-SSF-SNA). 
 
 3. Author Information
 	A. Principal Investigator Contact Information
@@ -46,19 +46,17 @@ GENERAL INFORMATION
 
 SHARING/ACCESS INFORMATION
 
-1. Licenses/restrictions placed on the data: 
+1. Licenses/restrictions placed on the data:  Creative Commons Attribution License (CC BY). 
 
-2. Links to publications that cite or use the data: 
+2. Links to publications that cite or use the data: https://www.frontiersin.org/articles/10.3389/fmars.2022.966309/full
 
-3. Links to other publicly accessible locations of the data: 
+3. Links/relationships to ancillary data sets: 
 
-4. Links/relationships to ancillary data sets: 
-
-5. Was data derived from another source? No
+4. Was data derived from another source? No
 
 6. Recommended citation for this dataset: 
 
-Gomez-Andujar N., Watson J., Gerkey A., Conway F.,  Social Chesion varies among small-scale fisheries responding to crises. Frontiers in Marine Science. 
+Gomez-Andujar N., Watson J., Gerkey A., Conway F., (2022). Social cohesion and self-governance arrangements among small-scale fisheries in Puerto Rico. Frontiers in Marine Science. https://www.frontiersin.org/articles/10.3389/fmars.2022.966309/full
 
 
 DATA & FILE OVERVIEW
@@ -66,7 +64,7 @@ DATA & FILE OVERVIEW
 1. File List: 
 <list all files (or folders, as appropriate for dataset organization) contained in the dataset, with a brief description>
 
-2. Relationship between files, if important: 
+2. Relationship between files, if important: Use in numeric order to carry out the analysis presented in the publication.
 
 3. Additional related data collected that was not included in the current data package: 
    1. Gear and sectorial conflicts, in the form of ego-centric network data. 
@@ -74,7 +72,6 @@ DATA & FILE OVERVIEW
    3. Attributes of fishers related to social capital and markets during the pandemic.
 
 4. Are there multiple versions of the dataset? No
-
 
 
 METHODOLOGICAL INFORMATION
